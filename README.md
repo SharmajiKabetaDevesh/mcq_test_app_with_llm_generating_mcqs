@@ -1,11 +1,16 @@
-This is an Quiz App which is meant to take tests.
-Features:
-1> We can create test using an llm just by giving a topic to an llm.
-2> the students can give test using an testId given by their teachers/admin not need of logging in.
-3> Results are declared in real time after the exam is over.
-4> Admin/Teachers can download the result in an excel/csv format for easy analysis
-5> It also involves test updation i.e removal of questions,reparing any errors,adding more questions.
+# Quiz App
 
-Working in progress:
-1> Creation of frontend in react .
-2> An video processing element to prevent cheating,also single window tab etc.
+A robust Quiz Application designed to facilitate seamless test-taking and management.
+
+## Features
+
+* **LLM-Powered Test Creation:** Easily generate tests by simply providing a topic to an integrated Large Language Model (LLM).
+* **Hassle-Free Student Access:** Students can take tests directly using a `testId` provided by their teachers or administrators, eliminating the need for separate logins.
+* **Real-time Results:** Test results are declared immediately upon exam completion, providing instant feedback.
+* **Downloadable Analytics:** Teachers/Admins can download results in Excel/CSV format for convenient analysis and record-keeping.
+* **Comprehensive Test Management:** Includes functionalities for test updates such as question removal, error correction, and adding new questions.
+
+## Working in Progress
+
+* Developing the frontend using React for a modern and responsive user interface.
+* Implementing advanced anti-cheating measures, including a video processing element and single-window tab enforcement during exams.
